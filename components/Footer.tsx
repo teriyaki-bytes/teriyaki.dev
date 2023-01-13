@@ -11,11 +11,11 @@ export default function Footer({ children }: Props) {
     {
       title: "Documentation",
       children: [
-        { name: "Getting Started", href: "#" },
-        { name: "Guide", href: "#" },
-        { name: "API", href: "#" },
-        { name: "Showcase", href: "#" },
-        { name: "Pricing", href: "#" },
+        { name: "Coming soon...", href: "#" },
+        // { name: "Guide", href: "#" },
+        // { name: "API", href: "#" },
+        // { name: "Showcase", href: "#" },
+        // { name: "Pricing", href: "#" },
       ],
     },
     {
