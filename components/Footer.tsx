@@ -34,11 +34,11 @@ export default function Footer({ children }: Props) {
         <div class="flex items-center gap-1">
           <MushroomIcon class="inline-block" />
           <div class="font-bold text-2xl">
-            Fresh
+            Teriyaki
           </div>
         </div>
         <div class="text-gray-500">
-          Full Stack Framework
+          FOSS Dev House
         </div>
       </div>
 

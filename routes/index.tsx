@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Fresh App</title>
+        <title>🍄 Teriyaki</title>
       </Head>
       <body class="bg-yellow-200">
         <div class="p-4 mx-auto max-w-screen-md">
