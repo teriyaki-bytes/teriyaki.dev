@@ -22,7 +22,7 @@ export default function Home() {
           </article>
           <div
             class="w-full flex px-8 h-96 justify-center items-center flex-col gap-8 bg-cover bg-center bg-no-repeat bg-gray-100 rounded-xl text-white"
-            style="background-image:linear-gradient(rgba(55, 65, 81, 0.8),rgba(68, 64, 60, 0.8)), url('/gallery/hero-bg.webp');"
+            style="background-image:linear-gradient(rgba(55, 65, 81, 0.8),rgba(68, 64, 60, 0.8))"
           >
             <div class="space-y-4 text-center">
               <h1 class="text-4xl inline-block font-bold">
@@ -33,9 +33,9 @@ export default function Home() {
               </p>
             </div>
 
-            <div>
-              <pre><code class="block mt-4 text-blue-400 cursor-pointer inline-flex items-center group  bg-black px-8 py-2 rounded-md font-bold">import <span className="text-yellow-400">&#123;keydownEvents&#125;</span> from <span className="text-green-400">"https://deno.land/x/clack/mod.ts"</span></code></pre>
-              {" "}
+            <div class="hidden lg:block">
+              <pre><code class="lg:block sm:overflow-x-auto  mx-auto container mt-4 text-blue-400 inline-flex items-center group  bg-black md:px-8 py-2 rounded-md font-bold">import <span className="text-yellow-400">&#123;keydownEvents&#125;</span> from <span className="text-green-400">"https://deno.land/x/clack/mod.ts"</span></code></pre>
+              
             </div>
             <div>
               <a
