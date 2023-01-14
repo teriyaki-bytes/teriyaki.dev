@@ -17,7 +17,7 @@ export default function Home() {
             <p class="text-2xl">
               We love{" "}
               <strong>open source software</strong>. Especially when it's fueled
-              by friendly competiton. We're here to do our part.
+              by friendly competition. We're here to do our part.
             </p>
           </article>
           <div
