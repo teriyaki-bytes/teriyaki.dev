@@ -1,12 +1,5 @@
-# fresh project
-
-### Usage
-
-Start the project:
-
-```
-deno task start
-```
-
-This will watch the project directory and restart as necessary.
 # teriyaki.dev
+
+I mean, you can host this yourself if you want. But I'd rather you just do pull requests for Typos. 
+
+Also, feel free to create pull request for tutorial articles under */t*
