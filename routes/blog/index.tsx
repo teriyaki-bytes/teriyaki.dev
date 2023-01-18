@@ -1,7 +1,7 @@
 import { Head } from "$fresh/runtime.ts";
 import Navbar from "../../components/Navbar.tsx";
 import Footer from "../../components/Footer.tsx";
-import { posts } from "../../main.ts";
+// import { posts } from "../../main.ts";
 
 export default function Blog() {
   return (
