@@ -9,5 +9,8 @@ import manifest from "./fresh.gen.ts";
 
 import twindPlugin from "$fresh/plugins/twind.ts";
 import twindConfig from "./twind.config.ts";
+import { loadPosts } from "./lib/blog.ts";
+
+export const posts = await loadPosts("./blog")
 
 await start(manifest, { plugins: [twindPlugin(twindConfig)] });

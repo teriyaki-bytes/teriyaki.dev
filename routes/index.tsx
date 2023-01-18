@@ -21,7 +21,7 @@ export default function Home() {
             </p>
           </article>
           <div
-            class="w-full flex px-8 h-96 justify-center items-center flex-col gap-8 bg-cover bg-center bg-no-repeat bg-gray-100 rounded-xl text-white"
+            class="w-full flex px-8 mb-4 h-96 justify-center items-center flex-col gap-8 bg-cover bg-center bg-no-repeat bg-gray-100 rounded-xl text-white"
             style="background-image:linear-gradient(rgba(55, 65, 81, 0.8),rgba(68, 64, 60, 0.8))"
           >
             <div class="space-y-4 text-center">
