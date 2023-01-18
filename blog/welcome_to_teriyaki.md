@@ -7,3 +7,5 @@ tags:
 ----
 
 # Welcome to Teriyaki!
+
+This is a test of our blog.
