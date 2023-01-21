@@ -10,7 +10,8 @@ export default function Header({ active }: Props) {
     // { name: "Components", href: "/components" },
     // { name: "Docs", href: "/docs" },
     { name: "Github", href: "https://github.com/teriyaki-bytes" },
-    { name: "Blog", href: "/blog" },
+    {name: "Doji", href: "/doji"}
+    // { name: "Blog", href: "/blog" },
   ];
 
   return (
