@@ -30,11 +30,11 @@ export default function doji() {
                 A JavaScript and TypeScript runtime and project manager.
               </p>
             </div>
-{/* 
+
             <div class="hidden lg:block">
-              <pre><code class="lg:block sm:overflow-x-auto  mx-auto container mt-4 text-blue-400 inline-flex items-center group  bg-black md:px-8 py-2 rounded-md font-bold">import <span className="text-yellow-400">&#123;keydownEvents&#125;</span> from <span className="text-green-400">"https://deno.land/x/clack/mod.ts"</span></code></pre>
+              <pre><code class="lg:block sm:overflow-x-auto  mx-auto container mt-4 text-blue-400 inline-flex items-center group  bg-black md:px-8 py-2 rounded-md font-bold">cargo install doji</code></pre>
               
-            </div> */}
+            </div>
             <div>
               <a
                 href="https://github.com/teriyaki-bytes/doji"
